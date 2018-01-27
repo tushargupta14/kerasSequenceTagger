@@ -1,0 +1,14 @@
+
+pkl
+data/
+json
+pyc
+save
+pdf
+.ipynb_checkpoints/
+.ipynb
+data/
+json
+pkl
+pyc
+is13/
